@@ -1,0 +1,8 @@
+# gitIgnore File
+.DS_Store
+design blocks/
+design rules/
+scr/
+spice/
+ulps/
+Archive/
